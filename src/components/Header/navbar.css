@@ -1,0 +1,15 @@
+.headerContainer{
+    background-color: rgb(18, 18, 211) !important;
+}
+nav a{
+    color: #fff !important;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1px;  
+}
+nav a:hover{
+    color: red !important;
+}
+
+
+
